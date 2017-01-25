@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+There's a Big Mac for that.
